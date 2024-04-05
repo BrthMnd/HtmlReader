@@ -1,0 +1,20 @@
+:root{
+    color-scheme: light dark;
+}
+.card-view{
+    border: 1px solid white;
+    padding: 20px;
+    border-radius: 25%;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.delete{
+    padding: 5;
+    margin-left: 20px;
+    
+}
+.asdf{
+    display: flex;
+    
+}
